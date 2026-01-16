@@ -36,3 +36,6 @@ Thumbs.db
 
 # Logs
 *.log
+
+# Temporary utility scripts
+prepare_data.py
